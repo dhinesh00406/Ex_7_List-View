@@ -22,11 +22,13 @@ Step 7: Save and run the application.
 
 ## PROGRAM:
 ```
+/*
 Program to print the list of item.
-Developed by:   DHINESH P
-Registeration Number :  212222043001
+Developed by: RAMYA S
+Registeration Number : 212222040130
+*/
 ```
-# ACTIVITY_MAIN.XML
+## ACTIVITY_MAIN.XML
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -43,7 +45,7 @@ Registeration Number :  212222043001
         />
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
-# MYLIST.XML
+## MYLIST.XML
 ```
 <?xml version="1.0" encoding="utf-8"?>
 
@@ -60,7 +62,7 @@ android:padding="2dp"
 android:textColor="#4d4d4d"
     />
 ```
-# STRINGS.XML
+## STRINGS.XML
 ```
 <resources>
     <string name="app_name">ListView</string>
@@ -80,7 +82,8 @@ android:textColor="#4d4d4d"
     </string-array>
 </resources>
 ```
-# MAINACTIVITY.JAVA
+
+## MAINACTIVITY.JAVA
 ```
 package com.example.ex_7_listview;
 
@@ -124,13 +127,13 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 
+
+
 ## OUTPUT
+<img width="1080" height="2280" alt="mob pic4" src="https://github.com/user-attachments/assets/c54e5edf-720f-4687-a46d-e7647d0c6367" />
 
-<img width="1080" height="2280" alt="mob pic4" src="https://github.com/user-attachments/assets/ad098934-8bc6-41a4-92aa-bee6f96daad0" />
 
-
-<img width="1080" height="2280" alt="mob pic5" src="https://github.com/user-attachments/assets/cc4689ff-329c-49c1-b798-ccf33cebd493" />
-
+<img width="1080" height="2280" alt="mob pic5" src="https://github.com/user-attachments/assets/fe34a5c8-ffcd-4f19-8578-7e8a009cc461" />
 
 
 ## RESULT
